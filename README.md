@@ -50,7 +50,8 @@ App/
 ### 🧪 Installation
 
 ```bash
-git clone https://github.com/Abhiram-ARS/Web-HMD/tree/96a25508f441528e8df1f10ebd6b0442a39b957e/App
+git clone https://github.com/Abhiram-ARS/Web-HMD.git
+cd Web-HMD/App
 pip install -r requirements.txt
 ```
 
